@@ -13,7 +13,7 @@ ECR_CRAWLER_REPO=lsgrep/meditations
 
 publish:
 	quarto render
-	git checkout docs/CNAME
+	git checkout docs/CNAME | true
 	git add --all
 	git commit -m "action"
 	git push
