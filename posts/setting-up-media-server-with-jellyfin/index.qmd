@@ -121,7 +121,7 @@ docker run -d \
 Since it is sharing(`--pid host`) PID namespace with host, you can run `nvidia-smi` on host machine directly to see if
 Jellyfin is using GPU when transcoding content.
 
-![jellyfin-nvidia](/images/jellyfin-nvidia.png)
+![jellyfin-nvidia](jellyfin-nvidia.png)
 
 - Register an [OpenSubtitles.org](http://opensubtitles.org) account and install the plugin for the Jellyfin. You have
    to login with your account in the plugin settings page. With this you can add subtitles to your videos without too much effort.
