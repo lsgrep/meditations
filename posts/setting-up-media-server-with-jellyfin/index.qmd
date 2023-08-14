@@ -2,7 +2,7 @@
 title: "Setting up a media server with Jellyfin"
 author: "Yusup"
 date: "2022-01-25"
-categories: [linux]
+categories: [linux, fun]
 ---
 
 I have an Ubuntu desktop machine with an old Nvidia card. It has OKish specs, but it is a bit noisy for my liking. In
