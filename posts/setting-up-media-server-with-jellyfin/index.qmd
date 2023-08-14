@@ -3,6 +3,14 @@ title: "Setting up a media server with Jellyfin"
 author: "Yusup"
 date: "2022-01-25"
 categories: [linux, fun]
+toc: true
+format:
+  html:
+    html-math-method: katex
+    code-tools: true
+    self-contained: true
+execute:
+  warning: false
 ---
 
 I have an Ubuntu desktop machine with an old Nvidia card. It has OKish specs, but it is a bit noisy for my liking. In

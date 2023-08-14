@@ -3,10 +3,18 @@ title: "From the instant to eternity"
 author: "Yusup"
 date: "2023-08-14"
 categories: [thoughts]
+toc: true
+format:
+  html:
+    html-math-method: katex
+    code-tools: true
+    self-contained: true
+execute:
+  warning: false
 ---
 
 
-Always had a fond inclination towards meditation.
+I have always had a fond inclination towards meditation.
 I have been practicing meditation on and off for a couple years.  I even came up with my own methods of meditation, maybe that is for another post.
 
 If I remember correctly I think Andrew Huberman once said that meditation is a special state in which you can upgrade your source code of your brain/consciousness.
@@ -21,13 +29,13 @@ There are a lot can be learned from the Gita. What struck me the most is the imm
 Discourse 2, Bhagavad Gita
 
 > The self is not born
-nor does it ever die.
-Once it has been, this self will
-never cease to be again.
-Unborn, eternal,
-continuing from the old,
-the self is not killed
-when the body is killed
+> nor does it ever die.
+> Once it has been, this self will
+> never cease to be again.
+> Unborn, eternal,
+> continuing from the old,
+> the self is not killed
+> when the body is killed
 
 
 Discourse 2, Bhagavad Gita

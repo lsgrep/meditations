@@ -1,0 +1,14 @@
+---
+title: "Speed readoing experiment"
+author: "Yusup"
+date: "2023-08-14"
+categories: [books, fun]
+toc: true
+format:
+  html:
+    html-math-method: katex
+    code-tools: true
+    self-contained: true
+execute:
+  warning: false
+---
