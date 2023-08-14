@@ -1,5 +1,5 @@
 ---
-title: "Speed readoing experiment"
+title: "Speed reading experiment"
 author: "Yusup"
 date: "2023-08-14"
 categories: [books, fun]
