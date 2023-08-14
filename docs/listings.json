@@ -3,7 +3,8 @@
     "listing": "/index.html",
     "items": [
       "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/welcome/index.html",
+      "/posts/setting-up-media-server-with-jellyfin/index.html"
     ]
   }
 ]
