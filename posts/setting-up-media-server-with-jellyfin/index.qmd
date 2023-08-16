@@ -4,11 +4,6 @@ author: "Yusup"
 date: "2022-01-25"
 categories: [linux, fun]
 toc: true
-format:
-  html:
-    html-math-method: katex
-    code-tools: true
-    self-contained: true
 execute:
   warning: true
   error: true
