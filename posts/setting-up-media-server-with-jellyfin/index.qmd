@@ -10,7 +10,9 @@ format:
     code-tools: true
     self-contained: true
 execute:
-  warning: false
+  warning: true
+  error: true
+  debug: true
 ---
 
 I have an Ubuntu desktop machine with an old Nvidia card. It has OKish specs, but it is a bit noisy for my liking. In

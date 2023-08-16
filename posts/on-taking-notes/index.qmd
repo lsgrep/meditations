@@ -10,7 +10,9 @@ format:
     code-tools: true
     self-contained: true
 execute:
-  warning: false
+  warning: true
+  debug: true
+  error: true
 ---
 
 
@@ -45,7 +47,6 @@ increase the positive margins)"
 
 I think learned a few things after reading the book.
 [How to Take Smart Notes (affiliated)](https://amzn.to/3RKNnYO).
-<a href="https://www.amazon.com/How-Take-Smart-Notes-Technique-ebook/dp/B09V5M8FR5?keywords=how+to+take+smart+notes&qid=1658315904&sprefix=how+to+%2Caps%2C508&sr=8-1&linkCode=li2&tag=lsgrep09-20&linkId=2d6a4b9ed90506e9bd58f8109311ec0b&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09V5M8FR5&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lsgrep09-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lsgrep09-20&language=en_US&l=li2&o=1&a=B09V5M8FR5" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 It officially introduced me to the concept of [Zettlekasten](https://en.wikipedia.org/wiki/Zettelkasten) (slipbox,
 backlinks).

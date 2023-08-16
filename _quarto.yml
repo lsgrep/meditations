@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Yusup"
+  google-analytics:
+    tracking-id: "G-ZNHE3LPDLF"
   navbar:
     right:
       - about.qmd

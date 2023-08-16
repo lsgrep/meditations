@@ -10,5 +10,12 @@ format:
     code-tools: true
     self-contained: true
 execute:
-  warning: false
+  warning: true
+  error: true
+  debug: true
 ---
+
+They key to speed reading is disabling subvocalization.
+
+
+How to train yourself to speed read:

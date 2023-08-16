@@ -10,7 +10,9 @@ format:
     code-tools: true
     self-contained: true
 execute:
-  warning: false
+  warning: true
+  debug: true
+  error: true
 ---
 
 

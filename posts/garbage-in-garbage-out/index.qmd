@@ -3,6 +3,10 @@ title: "Garbage in garbage out"
 author: "Yusup"
 date: "2022-07-22"
 categories: [thoughts]
+execute:
+    warning: true
+    error: true
+    debug: true
 ---
 
 
@@ -15,7 +19,6 @@ Your next move is probably already decided or heavily influenced by your context
 Garbage in garbage out
 ```
 This I read this phrase from [Steal Like an Artist (affiliated)](https://amzn.to/3cyoLlW) which is the first English book I read, it stuck in my head till this day.
-<a href="https://www.amazon.com/Steal-Like-Artist-Things-Creative-ebook/dp/B0074QGGK6?_encoding=UTF8&qid=1658446462&sr=8-1&linkCode=li3&tag=lsgrep09-20&linkId=22063f56b55ee072d0b4c08271bc1a2e&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0074QGGK6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lsgrep09-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lsgrep09-20&language=en_US&l=li3&o=1&a=B0074QGGK6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
 I have been listening to podcasts for a few years now. Apart from books, podcasts became the main source of information for me.
@@ -41,7 +44,6 @@ I got to know David Goggins, Wim Hof, Graham Hancock, Guy Ritchie and many more.
 It has been more than two years since I started taking cold showers. It kinda gives me the shock and energy to go on when I am low.
 
 David Goggins has a great book. [Can't Hurt Me: Master Your Mind and Defy the Odds (affiliated)](https://amzn.to/3PpQqny) .
-<a href="https://www.amazon.com/Cant-Hurt-Me-David-Goggins-audiobook/dp/B07KKP62FW?_encoding=UTF8&qid=1658449103&sr=8-1&linkCode=li3&tag=lsgrep09-20&linkId=fa0d2fe16d301c5bc615f84c4773754a&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07KKP62FW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lsgrep09-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lsgrep09-20&language=en_US&l=li3&o=1&a=B07KKP62FW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 The book is about a lazy ass man's redemption through physical training. It is also a journey of learning how to control your mind. It is really fascinating.
 
 ### [Lex Fridman Podcast](https://lexfridman.com/podcast/)

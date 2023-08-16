@@ -13,7 +13,10 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
+execute:
+  warning: true
+  error: true
+  debug: true
 ---
 
 About this blog
