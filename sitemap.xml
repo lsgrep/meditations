@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lsgrep.github.io/meditations/about.html</loc>
-    <lastmod>2023-08-17T05:45:54.058Z</lastmod>
+    <loc>https://github.com/lsgrep/meditations/posts/garbage-in-garbage-out/index.html</loc>
+    <lastmod>2023-08-17T06:01:41.521Z</lastmod>
   </url>
   <url>
-    <loc>https://lsgrep.github.io/meditations/posts/garbage-in-garbage-out/index.html</loc>
-    <lastmod>2023-08-17T05:45:53.307Z</lastmod>
+    <loc>https://github.com/lsgrep/meditations/posts/setting-up-media-server-with-jellyfin/index.html</loc>
+    <lastmod>2023-08-17T06:01:40.589Z</lastmod>
   </url>
   <url>
-    <loc>https://lsgrep.github.io/meditations/posts/from-the-instant-to-eternity/index.html</loc>
-    <lastmod>2023-08-17T05:45:52.610Z</lastmod>
+    <loc>https://github.com/lsgrep/meditations/posts/on-taking-notes/index.html</loc>
+    <lastmod>2023-08-17T06:01:39.389Z</lastmod>
   </url>
   <url>
-    <loc>https://lsgrep.github.io/meditations/posts/speed-reading-experiment/index.html</loc>
-    <lastmod>2023-08-17T05:45:51.654Z</lastmod>
+    <loc>https://github.com/lsgrep/meditations/index.html</loc>
+    <lastmod>2023-08-17T06:01:38.153Z</lastmod>
   </url>
   <url>
-    <loc>https://lsgrep.github.io/meditations/posts/setting-up-media-server-with-jellyfin/index.html</loc>
-    <lastmod>2023-08-17T05:45:52.246Z</lastmod>
+    <loc>https://github.com/lsgrep/meditations/about.html</loc>
+    <lastmod>2023-08-17T06:01:38.897Z</lastmod>
   </url>
   <url>
-    <loc>https://lsgrep.github.io/meditations/posts/on-taking-notes/index.html</loc>
-    <lastmod>2023-08-17T05:45:52.992Z</lastmod>
+    <loc>https://github.com/lsgrep/meditations/posts/speed-reading-experiment/index.html</loc>
+    <lastmod>2023-08-17T06:01:39.749Z</lastmod>
   </url>
   <url>
-    <loc>https://lsgrep.github.io/meditations/index.html</loc>
-    <lastmod>2023-08-17T05:45:53.802Z</lastmod>
+    <loc>https://github.com/lsgrep/meditations/posts/from-the-instant-to-eternity/index.html</loc>
+    <lastmod>2023-08-17T06:01:41.081Z</lastmod>
   </url>
 </urlset>
