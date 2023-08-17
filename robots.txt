@@ -1,1 +1,1 @@
-Sitemap: https://github.com/lsgrep/meditations/sitemap.xml
+Sitemap: https://lsgrep.github.io/meditations/sitemap.xml
