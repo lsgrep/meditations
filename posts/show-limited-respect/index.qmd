@@ -47,4 +47,4 @@ Don't lose dreams, not to the environment you are in, not to the people you are 
 I think, in simpler terms, show more respect to yourself and your dreams, and show limited respect to the environment you are in.
 
 
-[![Dream](https://customer-xyomvvsceqirni02.cloudflarestream.com/d3a6fa47e843bd528047320f61f4047a/thumbnails/thumbnail.jpg)](https://customer-xyomvvsceqirni02.cloudflarestream.com/d3a6fa47e843bd528047320f61f4047a/watch)
+{{< video https://customer-xyomvvsceqirni02.cloudflarestream.com/d3a6fa47e843bd528047320f61f4047a/watch >}}
