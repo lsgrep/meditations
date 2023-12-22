@@ -12,7 +12,7 @@ execute:
 
 # Show limited respect
 
-Lately I've listened to the Audiobook "Elon Musk" by Walter Isaacson.
+Lately I've listened to the audiobook "Elon Musk" by Walter Isaacson.
 
 Here are a few things I've learned from the book.
 
