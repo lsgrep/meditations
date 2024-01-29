@@ -19,4 +19,6 @@ execute:
   debug: true
 ---
 
-About this blog
+
+Contact me at
+[https://hour.app/yusup](https://hour.app/yusup)
