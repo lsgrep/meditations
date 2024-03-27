@@ -1,0 +1,72 @@
+---
+title: "Setup a New Machine"
+author: "Yusup"
+date: "2024-03-27"
+categories: [tools, macos]
+toc: true
+execute:
+  warning: true
+  error: true
+  debug: true
+---
+
+0. start
+
+```
+xcode-select --install
+```
+
+1. brew https://brew.sh/
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+things to install:
+```
+brew install tmux nvim wget htop node kubectl fzf wireguard wireguard-tools golang rustup
+```
+
+2. oh-my-zsh https://ohmyz.sh/
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+zsh config:
+```
+plugins=(git
+	python
+	kube-ps1
+	aws
+	docker
+	kubectl
+	vscode
+	dotenv
+	tmux
+	zsh-autosuggestions
+	zsh-syntax-highlighting
+	fzf-zsh-plugin)
+```
+
+3. sdkman https://sdkman.io/
+```
+curl -s "https://get.sdkman.io" | bash
+```
+
+install java:
+```
+sdk list java
+sdk install java 11.0.14.1-jbr
+```
+
+4. ollama https://ollama.com/
+
+```
+curl -fsSL https://ollama.com/install.sh | sh
+```
+
+5. fonts https://github.com/be5invis/Iosevka
+
+```
+brew tap homebrew/cask-fonts
+brew install font-iosevka
+```

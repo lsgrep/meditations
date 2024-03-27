@@ -35,6 +35,13 @@
     "text": "They key to speed reading is disabling subvocalization.\nAt least, previously I thought so.\nIt is true that subvocalization that slows down reading, but the real increase comes for adeptness at information processing.\nImagine taking a look at the Chessboard, and repeat back the locations of all the pieces. Reading means live compression, but in order to compress, you need to be able to load/process the information first.\nI think I am going to practice memorizing the chessboard, and see if it helps with reading speed."
   },
   {
+    "objectID": "posts/setup-a-new-machine/index.html",
+    "href": "posts/setup-a-new-machine/index.html",
+    "title": "Setup a New Machine",
+    "section": "",
+    "text": "start\n\nxcode-select --install\n\nbrew https://brew.sh/\n\n/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\"\nthings to install:\nbrew install tmux nvim wget htop node kubectl fzf wireguard wireguard-tools golang rustup\n\noh-my-zsh https://ohmyz.sh/\n\nsh -c \"$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)\"\nzsh config:\nplugins=(git\n    python\n    kube-ps1\n    aws\n    docker\n    kubectl\n    vscode\n    dotenv\n    tmux\n    zsh-autosuggestions\n    zsh-syntax-highlighting\n    fzf-zsh-plugin)\n\nsdkman https://sdkman.io/\n\ncurl -s \"https://get.sdkman.io\" | bash\ninstall java:\nsdk list java\nsdk install java 11.0.14.1-jbr\n\nollama https://ollama.com/\n\ncurl -fsSL https://ollama.com/install.sh | sh\n\nfonts https://github.com/be5invis/Iosevka\n\nbrew tap homebrew/cask-fonts\nbrew install font-iosevka"
+  },
+  {
     "objectID": "posts/metaconsciousness/index.html",
     "href": "posts/metaconsciousness/index.html",
     "title": "Metaconsciousness",
@@ -60,6 +67,6 @@
     "href": "index.html",
     "title": "make a greater mistake",
     "section": "",
-    "text": "Show limited respect\n\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\n\n\nDec 21, 2023\n\n\nYusup\n\n\n\n\n\n\n  \n\n\n\n\nMetaconsciousness\n\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2023\n\n\nYusup\n\n\n\n\n\n\n  \n\n\n\n\nSpeed reading experiment\n\n\n\n\n\n\n\nbooks\n\n\nfun\n\n\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nYusup\n\n\n\n\n\n\n  \n\n\n\n\nFrom the instant to eternity\n\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nYusup\n\n\n\n\n\n\n  \n\n\n\n\nGarbage in garbage out\n\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\n\n\nJul 22, 2022\n\n\nYusup\n\n\n\n\n\n\n  \n\n\n\n\nOn taking notes\n\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\n\n\nJul 20, 2022\n\n\nYusup\n\n\n\n\n\n\n  \n\n\n\n\nSetting up a media server with Jellyfin\n\n\n\n\n\n\n\nlinux\n\n\nfun\n\n\n\n\n\n\n\n\n\n\n\nJan 25, 2022\n\n\nYusup\n\n\n\n\n\n\nNo matching items"
+    "text": "Setup a New Machine\n\n\n\n\n\n\ntools\n\n\nmacos\n\n\n\n\n\n\n\n\n\nMar 27, 2024\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nShow limited respect\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\nDec 21, 2023\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nMetaconsciousness\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\nOct 9, 2023\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nSpeed reading experiment\n\n\n\n\n\n\nbooks\n\n\nfun\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nFrom the instant to eternity\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nGarbage in garbage out\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\nJul 22, 2022\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nOn taking notes\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\nJul 20, 2022\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nSetting up a media server with Jellyfin\n\n\n\n\n\n\nlinux\n\n\nfun\n\n\n\n\n\n\n\n\n\nJan 25, 2022\n\n\nYusup\n\n\n\n\n\n\nNo matching items"
   }
 ]
