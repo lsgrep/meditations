@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lsgrep.github.io/meditations/posts/show-limited-respect/index.html</loc>
-    <lastmod>2024-01-29T05:27:58.756Z</lastmod>
+    <loc>https://lsgrep.github.io/meditations/index.html</loc>
+    <lastmod>2024-03-27T12:13:54.908Z</lastmod>
   </url>
   <url>
-    <loc>https://lsgrep.github.io/meditations/posts/garbage-in-garbage-out/index.html</loc>
-    <lastmod>2024-01-29T05:27:58.748Z</lastmod>
+    <loc>https://lsgrep.github.io/meditations/posts/show-limited-respect/index.html</loc>
+    <lastmod>2024-03-27T12:13:54.924Z</lastmod>
   </url>
   <url>
     <loc>https://lsgrep.github.io/meditations/posts/from-the-instant-to-eternity/index.html</loc>
-    <lastmod>2024-01-29T05:27:58.736Z</lastmod>
+    <lastmod>2024-03-27T12:13:54.908Z</lastmod>
   </url>
   <url>
-    <loc>https://lsgrep.github.io/meditations/posts/metaconsciousness/index.html</loc>
-    <lastmod>2024-01-29T05:27:58.748Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lsgrep.github.io/meditations/index.html</loc>
-    <lastmod>2024-01-29T05:27:58.736Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lsgrep.github.io/meditations/about.html</loc>
-    <lastmod>2024-01-29T05:27:58.716Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lsgrep.github.io/meditations/posts/speed-reading-experiment/index.html</loc>
-    <lastmod>2024-01-29T05:27:58.756Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lsgrep.github.io/meditations/posts/setting-up-media-server-with-jellyfin/index.html</loc>
-    <lastmod>2024-01-29T05:27:58.752Z</lastmod>
+    <loc>https://lsgrep.github.io/meditations/posts/garbage-in-garbage-out/index.html</loc>
+    <lastmod>2024-03-27T12:13:54.916Z</lastmod>
   </url>
   <url>
     <loc>https://lsgrep.github.io/meditations/posts/on-taking-notes/index.html</loc>
-    <lastmod>2024-01-29T05:27:58.748Z</lastmod>
+    <lastmod>2024-03-27T12:13:54.916Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsgrep.github.io/meditations/posts/setting-up-media-server-with-jellyfin/index.html</loc>
+    <lastmod>2024-03-27T12:13:54.920Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsgrep.github.io/meditations/posts/speed-reading-experiment/index.html</loc>
+    <lastmod>2024-03-27T12:13:54.924Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsgrep.github.io/meditations/posts/metaconsciousness/index.html</loc>
+    <lastmod>2024-03-27T12:13:54.916Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsgrep.github.io/meditations/posts/setup-a-new-machine/index.html</loc>
+    <lastmod>2024-03-27T12:13:54.924Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsgrep.github.io/meditations/about.html</loc>
+    <lastmod>2024-03-27T12:13:54.884Z</lastmod>
   </url>
 </urlset>
