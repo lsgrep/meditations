@@ -1,0 +1,34 @@
+---
+title: "Toyotas and Makefiles"
+author: "Yusup"
+date: "2024-08-16"
+categories: [thoughts, programming]
+toc: true
+execute:
+  warning: true
+  debug: true
+  error: true
+---
+
+> Someday, I might write a book with this title (PG wannabe?,maybe), but I will spit out my thoughts regardless here first.
+
+My old man drives a Toyota Highlander, which has been super reliable machine. It has been with many years now,
+and it is still going strong. I learned driving on that car, and I have a lot of memories with it.
+
+Since the beginning of the year, I have been watching car reviews on Youtube, particularly the ones from [The Car Care Nut](https://www.youtube.com/@TheCarCareNutReviews/videos).
+
+He is a Toyota & Lexus mechanic and he is a pretty chill dude. (Comment section calls him AMD, so I will stick to that).
+AMD doesn't do any fancy editing, and he is not trying to sell you anything. He just talks about cars, and he is pretty good at it.
+In plain english too, AMD tells you what is good and what is bad about the car. If I learned anything all those review videos from his channel and others,
+Toyotas are pretty reliable, they can run for hundreds thousands of miles, and they are easy to maintain, but they are boring and simple cars.
+
+The simplicity of the machine makes it easy to maintain, and easy to fix and kinda unbreakable.
+
+> My mate has one. 560 000km 4.2 diesel. I changed the timing belt and it is mechanically simple to work on.
+> No special tools required. It is the epitome of "simplicity is the cornerstone of robustness".  - Some random comment on Land Cruiser video from AMD's channel.
+
+I think the same can be said about Makefiles. Makefiles are simple, boring, and reliable. They are not fancy, but they are robust.
+
+All the nix systems comes with `make`, and a Makefile feels like a bare bone Toyota. It is simple, and it is reliable. It is not fancy, but it gets the job done.
+
+Tooling and systems should be simple & boring enough to disappear in your journey, so that you can the view.
