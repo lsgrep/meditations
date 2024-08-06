@@ -31,4 +31,4 @@ I think the same can be said about Makefiles. Makefiles are simple, boring, and 
 
 All the nix systems comes with `make`, and a Makefile feels like a bare bone Toyota. It is simple, and it is reliable. It is not fancy, but it gets the job done.
 
-Tooling and systems should be simple & boring enough to disappear in your journey, so that you can the view.
+Tooling and systems should be simple & boring enough to disappear in your journey, so that you can enjoy the view.
