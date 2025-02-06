@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "make a greater mistake",
     "section": "",
-    "text": "On Summoning LLMs: The Art of Prompt Engineering\n\n\n\n\n\n\nai\n\n\ntechnology\n\n\ncommunication\n\n\n\nA guide to effectively interacting with Large Language Models in the modern age\n\n\n\n\n\nFeb 7, 2025\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nToyotas and Makefiles\n\n\n\n\n\n\nthoughts\n\n\nprogramming\n\n\n\n\n\n\n\n\n\nAug 16, 2024\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nSetup a New Machine\n\n\n\n\n\n\ntools\n\n\nmacos\n\n\n\n\n\n\n\n\n\nMar 27, 2024\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nShow limited respect\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\nDec 21, 2023\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nMetaconsciousness\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\nOct 9, 2023\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nSpeed reading experiment\n\n\n\n\n\n\nbooks\n\n\nfun\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nFrom the instant to eternity\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nGarbage in garbage out\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\nJul 22, 2022\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nOn taking notes\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\nJul 20, 2022\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nSetting up a media server with Jellyfin\n\n\n\n\n\n\nlinux\n\n\nfun\n\n\n\n\n\n\n\n\n\nJan 25, 2022\n\n\nYusup\n\n\n\n\n\n\nNo matching items"
+    "text": "On Summoning: The Art of Prompt Engineering\n\n\n\n\n\n\nai\n\n\ntechnology\n\n\ncommunication\n\n\n\nA guide to effectively interacting with Large Language Models in the modern age\n\n\n\n\n\nFeb 7, 2025\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nToyotas and Makefiles\n\n\n\n\n\n\nthoughts\n\n\nprogramming\n\n\n\n\n\n\n\n\n\nAug 16, 2024\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nSetup a New Machine\n\n\n\n\n\n\ntools\n\n\nmacos\n\n\n\n\n\n\n\n\n\nMar 27, 2024\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nShow limited respect\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\nDec 21, 2023\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nMetaconsciousness\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\nOct 9, 2023\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nSpeed reading experiment\n\n\n\n\n\n\nbooks\n\n\nfun\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nFrom the instant to eternity\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nGarbage in garbage out\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\nJul 22, 2022\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nOn taking notes\n\n\n\n\n\n\nthoughts\n\n\n\n\n\n\n\n\n\nJul 20, 2022\n\n\nYusup\n\n\n\n\n\n\n\n\n\n\n\n\nSetting up a media server with Jellyfin\n\n\n\n\n\n\nlinux\n\n\nfun\n\n\n\n\n\n\n\n\n\nJan 25, 2022\n\n\nYusup\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -65,56 +65,56 @@
   {
     "objectID": "posts/summoning-llms/index.html",
     "href": "posts/summoning-llms/index.html",
-    "title": "On Summoning LLMs: The Art of Prompt Engineering",
+    "title": "On Summoning: The Art of Prompt Engineering",
     "section": "",
-    "text": "In the age of Large Language Models (LLMs), the ability to effectively communicate with AI has become as crucial as traditional programming skills. This post explores the art of “summoning” – how to craft prompts and interact with LLMs to achieve optimal results."
+    "text": "Imagine a mage, standing before a mystical sphere of infinite knowledge. To draw forth wisdom, they must master precise incantations and rituals. This is exactly what interacting with Large Language Models (LLMs) feels like. These AI models are like compressed spheres of knowledge – vast repositories of information and capabilities waiting to be unlocked.\nJust as a mage’s success depends on their mastery of magical techniques, getting the best results from LLMs requires understanding how to properly “decompress” their knowledge. Through careful prompt engineering – our modern-day spellcraft – we can channel this compressed potential into precise, meaningful responses.\nIn this age of AI, the art of “summoning” – knowing how to craft the right prompts and interact with LLMs – has become as crucial as traditional programming skills. This post explores this mystical art, teaching you the techniques to effectively commune with these digital oracles.\nIn the age of Large Language Models (LLMs), the ability to effectively communicate with AI has become as crucial as traditional programming skills. This post explores the art of “summoning” – how to craft prompts and interact with LLMs to achieve optimal results."
   },
   {
     "objectID": "posts/summoning-llms/index.html#understanding-the-nature-of-llms",
     "href": "posts/summoning-llms/index.html#understanding-the-nature-of-llms",
-    "title": "On Summoning LLMs: The Art of Prompt Engineering",
+    "title": "On Summoning: The Art of Prompt Engineering",
     "section": "Understanding the Nature of LLMs",
     "text": "Understanding the Nature of LLMs\nBefore diving into prompt engineering, it’s essential to understand what we’re working with. LLMs are not: - Traditional search engines - Rule-based chatbots - Omniscient oracles\nInstead, they are pattern recognition systems trained on vast amounts of text data, capable of: - Understanding context - Generating coherent responses - Following instructions - Maintaining conversation flow"
   },
   {
     "objectID": "posts/summoning-llms/index.html#the-art-of-prompt-engineering",
     "href": "posts/summoning-llms/index.html#the-art-of-prompt-engineering",
-    "title": "On Summoning LLMs: The Art of Prompt Engineering",
+    "title": "On Summoning: The Art of Prompt Engineering",
     "section": "The Art of Prompt Engineering",
     "text": "The Art of Prompt Engineering\n\n1. Be Clear and Specific\nInstead of:\nTell me about databases\nBetter:\nExplain the key differences between SQL and NoSQL databases, focusing on use cases and performance characteristics\n\n\n2. Provide Context\nInstead of:\nHow do I fix this bug?\nBetter:\nI'm working with Python 3.9 and getting a KeyError in my dictionary lookup. Here's the relevant code and error message: [code and error]\n\n\n3. Use Structure\nBreak down complex requests into: - Clear objectives - Specific requirements - Desired format - Examples (when helpful)\n\n\n4. Iterative Refinement\nDon’t expect perfect results on the first try. Instead: 1. Start with a basic prompt 2. Analyze the response 3. Refine your prompt based on the output 4. Repeat until satisfied"
   },
   {
     "objectID": "posts/summoning-llms/index.html#advanced-techniques",
     "href": "posts/summoning-llms/index.html#advanced-techniques",
-    "title": "On Summoning LLMs: The Art of Prompt Engineering",
+    "title": "On Summoning: The Art of Prompt Engineering",
     "section": "Advanced Techniques",
     "text": "Advanced Techniques\n\nChain of Thought Prompting\nGuide the LLM through a logical sequence:\nLet's solve this step by step:\n1. First, let's identify the key variables\n2. Then, analyze their relationships\n3. Finally, propose a solution\n\n\nRole-Based Prompting\nFrame the interaction by assigning a role:\nAct as an experienced software architect reviewing this system design..."
   },
   {
     "objectID": "posts/summoning-llms/index.html#best-practices",
     "href": "posts/summoning-llms/index.html#best-practices",
-    "title": "On Summoning LLMs: The Art of Prompt Engineering",
+    "title": "On Summoning: The Art of Prompt Engineering",
     "section": "Best Practices",
     "text": "Best Practices\n\nBe Explicit: State your assumptions and requirements clearly\nMaintain Context: Provide relevant background information\nSet Boundaries: Define scope and limitations\nRequest Formats: Specify how you want the information presented\nVerify Output: Always validate generated content or code"
   },
   {
     "objectID": "posts/summoning-llms/index.html#common-pitfalls-to-avoid",
     "href": "posts/summoning-llms/index.html#common-pitfalls-to-avoid",
-    "title": "On Summoning LLMs: The Art of Prompt Engineering",
+    "title": "On Summoning: The Art of Prompt Engineering",
     "section": "Common Pitfalls to Avoid",
     "text": "Common Pitfalls to Avoid\n\nAmbiguous Instructions: Leads to misinterpreted requests\nOvercomplicating: Sometimes simpler prompts work better\nAssuming Context: LLMs don’t retain information between sessions\nBlind Trust: Always verify critical information and code"
   },
   {
     "objectID": "posts/summoning-llms/index.html#conclusion",
     "href": "posts/summoning-llms/index.html#conclusion",
-    "title": "On Summoning LLMs: The Art of Prompt Engineering",
+    "title": "On Summoning: The Art of Prompt Engineering",
     "section": "Conclusion",
     "text": "Conclusion\nThe ability to effectively interact with LLMs is becoming an essential skill in the modern technical landscape. By understanding their capabilities and limitations, and applying structured prompt engineering techniques, we can better harness their potential.\nRemember: The key to successful LLM interaction lies not in finding a “perfect prompt,” but in developing a systematic approach to communication and iteration."
   },
   {
     "objectID": "posts/summoning-llms/index.html#further-reading",
     "href": "posts/summoning-llms/index.html#further-reading",
-    "title": "On Summoning LLMs: The Art of Prompt Engineering",
+    "title": "On Summoning: The Art of Prompt Engineering",
     "section": "Further Reading",
     "text": "Further Reading\n\nAnthropic’s Constitutional AI\nOpenAI’s GPT Best Practices\nGoogle’s PaLM 2 Technical Report"
   },
