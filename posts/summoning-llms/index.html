@@ -7,9 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Yusup">
-<meta name="dcterms.date" content="2022-07-20">
+<meta name="dcterms.date" content="2025-02-07">
+<meta name="description" content="A guide to effectively interacting with Large Language Models in the modern age">
 
-<title>On taking notes – Yusup</title>
+<title>On Summoning LLMs: The Art of Prompt Engineering – Yusup</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -82,7 +83,7 @@ gtag('config', 'G-ZNHE3LPDLF', { 'anonymize_ip': true});
 <link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
@@ -124,9 +125,16 @@ gtag('config', 'G-ZNHE3LPDLF', { 'anonymize_ip': true});
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">On taking notes</h1>
-                                <div class="quarto-categories">
-                <div class="quarto-category">thoughts</div>
+      <h1 class="title">On Summoning LLMs: The Art of Prompt Engineering</h1>
+                  <div>
+        <div class="description">
+          A guide to effectively interacting with Large Language Models in the modern age
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">ai</div>
+                <div class="quarto-category">technology</div>
+                <div class="quarto-category">communication</div>
               </div>
                   </div>
   </div>
@@ -144,7 +152,7 @@ gtag('config', 'G-ZNHE3LPDLF', { 'anonymize_ip': true});
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">July 20, 2022</p>
+        <p class="date">February 7, 2025</p>
       </div>
     </div>
     
@@ -155,17 +163,7 @@ gtag('config', 'G-ZNHE3LPDLF', { 'anonymize_ip': true});
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#writing-being-perfect" id="toc-writing-being-perfect" class="nav-link active" data-scroll-target="#writing-being-perfect">Writing &amp; Being Perfect</a></li>
-  <li><a href="#how-to-take-smart-notes" id="toc-how-to-take-smart-notes" class="nav-link" data-scroll-target="#how-to-take-smart-notes">How to Take Smart Notes</a></li>
-  <li><a href="#zettelkasten-apps" id="toc-zettelkasten-apps" class="nav-link" data-scroll-target="#zettelkasten-apps">Zettelkasten Apps</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
@@ -173,51 +171,84 @@ gtag('config', 'G-ZNHE3LPDLF', { 'anonymize_ip': true});
 
 
 
-<blockquote class="blockquote">
-<p>“Making a full sentence is pretty difficult for the brain.” - Something I learned from one of the great <a href="https://www.youtube.com/c/AndrewHubermanLab">Andrew Huberman</a> podcasts.</p>
-</blockquote>
-<p>I am no trained psychiatrist, but I have an intuition that writing probably makes thinking process easier by taking certain amount of load off from the prefrontal cortex.</p>
-<section id="writing-being-perfect" class="level3">
-<h3 class="anchored" data-anchor-id="writing-being-perfect">Writing &amp; Being Perfect</h3>
-<p>I was never good at writing or taking notes. It always took me an awful lot of time get started with any form of writing. Probably I was or still am a perfectionist, and I always wanted to get things right the first time. &gt; Perfectionism stems from the fear of our mortality. - Susan &gt; Cain, <a href="https://www.youtube.com/c/lexfridman">Lex Fridman Podcast</a></p>
-<p>Our brain works by punishing the loss and rewarding the gains. Making mistakes could be detrimental to our survival in the early stages of human existence, and we always receive negative feedbacks from supervisors or peers for our mistakes. Thus we avoid errors, mistakes, or failures at any cost.</p>
-<p>Fear of failure could be the major hindrance to our productivity, but in reality failure, or errors are the norm. Getting things right is just rare. If I learned anything in my life, it would be thinking in terms of errors. Our brain hardly predicts anything correctly, nor our actions match the expectations. So let’s modify the optimization target. “We are bound to miss, but we can try to minimize the negative margins.(or increase the positive margins)”</p>
+<p>In the age of Large Language Models (LLMs), the ability to effectively communicate with AI has become as crucial as traditional programming skills. This post explores the art of “summoning” – how to craft prompts and interact with LLMs to achieve optimal results.</p>
+<section id="understanding-the-nature-of-llms" class="level2">
+<h2 class="anchored" data-anchor-id="understanding-the-nature-of-llms">Understanding the Nature of LLMs</h2>
+<p>Before diving into prompt engineering, it’s essential to understand what we’re working with. LLMs are not: - Traditional search engines - Rule-based chatbots - Omniscient oracles</p>
+<p>Instead, they are pattern recognition systems trained on vast amounts of text data, capable of: - Understanding context - Generating coherent responses - Following instructions - Maintaining conversation flow</p>
 </section>
-<section id="how-to-take-smart-notes" class="level3">
-<h3 class="anchored" data-anchor-id="how-to-take-smart-notes">How to Take Smart Notes</h3>
-<p>I think learned a few things after reading the book. <a href="https://amzn.to/3RKNnYO">How to Take Smart Notes (affiliated)</a>.</p>
-<p>It officially introduced me to the concept of <a href="https://en.wikipedia.org/wiki/Zettelkasten">Zettlekasten</a> (slipbox, backlinks).</p>
-<p>Main philosophy:</p>
-<ul>
-<li>Rather taking a top to down approach to writing (think everything through at the start), start from taking random notes, then when think you are ready you can connect the dots and complete the writing (bottom to top).</li>
-</ul>
-<p>Actionable Steps:</p>
+<section id="the-art-of-prompt-engineering" class="level2">
+<h2 class="anchored" data-anchor-id="the-art-of-prompt-engineering">The Art of Prompt Engineering</h2>
+<section id="be-clear-and-specific" class="level3">
+<h3 class="anchored" data-anchor-id="be-clear-and-specific">1. Be Clear and Specific</h3>
+<p>Instead of:</p>
+<pre><code>Tell me about databases</code></pre>
+<p>Better:</p>
+<pre><code>Explain the key differences between SQL and NoSQL databases, focusing on use cases and performance characteristics</code></pre>
+</section>
+<section id="provide-context" class="level3">
+<h3 class="anchored" data-anchor-id="provide-context">2. Provide Context</h3>
+<p>Instead of:</p>
+<pre><code>How do I fix this bug?</code></pre>
+<p>Better:</p>
+<pre><code>I'm working with Python 3.9 and getting a KeyError in my dictionary lookup. Here's the relevant code and error message: [code and error]</code></pre>
+</section>
+<section id="use-structure" class="level3">
+<h3 class="anchored" data-anchor-id="use-structure">3. Use Structure</h3>
+<p>Break down complex requests into: - Clear objectives - Specific requirements - Desired format - Examples (when helpful)</p>
+</section>
+<section id="iterative-refinement" class="level3">
+<h3 class="anchored" data-anchor-id="iterative-refinement">4. Iterative Refinement</h3>
+<p>Don’t expect perfect results on the first try. Instead: 1. Start with a basic prompt 2. Analyze the response 3. Refine your prompt based on the output 4. Repeat until satisfied</p>
+</section>
+</section>
+<section id="advanced-techniques" class="level2">
+<h2 class="anchored" data-anchor-id="advanced-techniques">Advanced Techniques</h2>
+<section id="chain-of-thought-prompting" class="level3">
+<h3 class="anchored" data-anchor-id="chain-of-thought-prompting">Chain of Thought Prompting</h3>
+<p>Guide the LLM through a logical sequence:</p>
+<pre><code>Let's solve this step by step:
+1. First, let's identify the key variables
+2. Then, analyze their relationships
+3. Finally, propose a solution</code></pre>
+</section>
+<section id="role-based-prompting" class="level3">
+<h3 class="anchored" data-anchor-id="role-based-prompting">Role-Based Prompting</h3>
+<p>Frame the interaction by assigning a role:</p>
+<pre><code>Act as an experienced software architect reviewing this system design...</code></pre>
+</section>
+</section>
+<section id="best-practices" class="level2">
+<h2 class="anchored" data-anchor-id="best-practices">Best Practices</h2>
 <ol type="1">
-<li>do your research</li>
-<li>take notes into slipbox whenever you find something interesting</li>
-<li>reorganize your notes from slipbox with backlinks into different category or subtopics</li>
-<li>construct the drafts from previously organized notes</li>
+<li><strong>Be Explicit</strong>: State your assumptions and requirements clearly</li>
+<li><strong>Maintain Context</strong>: Provide relevant background information</li>
+<li><strong>Set Boundaries</strong>: Define scope and limitations</li>
+<li><strong>Request Formats</strong>: Specify how you want the information presented</li>
+<li><strong>Verify Output</strong>: Always validate generated content or code</li>
 </ol>
-<p>Here is how I interlink different notes in Obsidian. <img src="obsidian.png" title="My Obsidian Notes" class="img-fluid"></p>
 </section>
-<section id="zettelkasten-apps" class="level3">
-<h3 class="anchored" data-anchor-id="zettelkasten-apps">Zettelkasten Apps</h3>
-<p>There are a lot of tools that can implement Zettelkasten notes. I personally use Obsidian for note taking, cause I prefer saving notes locally.</p>
+<section id="common-pitfalls-to-avoid" class="level2">
+<h2 class="anchored" data-anchor-id="common-pitfalls-to-avoid">Common Pitfalls to Avoid</h2>
+<ol type="1">
+<li><strong>Ambiguous Instructions</strong>: Leads to misinterpreted requests</li>
+<li><strong>Overcomplicating</strong>: Sometimes simpler prompts work better</li>
+<li><strong>Assuming Context</strong>: LLMs don’t retain information between sessions</li>
+<li><strong>Blind Trust</strong>: Always verify critical information and code</li>
+</ol>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<p>The ability to effectively interact with LLMs is becoming an essential skill in the modern technical landscape. By understanding their capabilities and limitations, and applying structured prompt engineering techniques, we can better harness their potential.</p>
+<p>Remember: The key to successful LLM interaction lies not in finding a “perfect prompt,” but in developing a systematic approach to communication and iteration.</p>
+</section>
+<section id="further-reading" class="level2">
+<h2 class="anchored" data-anchor-id="further-reading">Further Reading</h2>
 <ul>
-<li><a href="https://zettelkasten.de/posts/overview/">Archive</a></li>
-<li><a href="https://roamresearch.com/">Roam Research</a></li>
-<li><a href="https://obsidian.md/">Obsidian</a></li>
+<li><a href="https://www.anthropic.com/research">Anthropic’s Constitutional AI</a></li>
+<li><a href="https://platform.openai.com/docs/guides/gpt-best-practices">OpenAI’s GPT Best Practices</a></li>
+<li><a href="https://ai.google/static/documents/palm2techreport.pdf">Google’s PaLM 2 Technical Report</a></li>
 </ul>
-<p>Obsidian also offers a lot of other features like:</p>
-<ul>
-<li>VIM mode support</li>
-<li>Daily Journal</li>
-<li>Templates</li>
-<li>Customizable Shortcuts</li>
-<li>Customizable UI,</li>
-<li>….</li>
-</ul>
-<p>I want to write a book. I already started taking notes with Zettelkasten method. I will write a post every day.</p>
 
 
 </section>

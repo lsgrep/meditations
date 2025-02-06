@@ -2,12 +2,13 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/summoning-llms/index.html",
       "/posts/toyota-cars-and-Makefiles/index.html",
       "/posts/setup-a-new-machine/index.html",
       "/posts/show-limited-respect/index.html",
       "/posts/metaconsciousness/index.html",
-      "/posts/from-the-instant-to-eternity/index.html",
       "/posts/speed-reading-experiment/index.html",
+      "/posts/from-the-instant-to-eternity/index.html",
       "/posts/garbage-in-garbage-out/index.html",
       "/posts/on-taking-notes/index.html",
       "/posts/setting-up-media-server-with-jellyfin/index.html"
