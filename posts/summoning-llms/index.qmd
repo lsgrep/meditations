@@ -1,5 +1,5 @@
 ---
-title: "On Summoning LLMs: The Art of Prompt Engineering"
+title: "On Summoning: The Art of Prompt Engineering"
 description: "A guide to effectively interacting with Large Language Models in the modern age"
 author: "Yusup"
 date: "2025-02-07"
@@ -7,6 +7,11 @@ categories: [ai, technology, communication]
 ---
 
 ![](summon.jpeg)
+Imagine a mage, standing before a mystical sphere of infinite knowledge. To draw forth wisdom, they must master precise incantations and rituals. This is exactly what interacting with Large Language Models (LLMs) feels like. These AI models are like compressed spheres of knowledge – vast repositories of information and capabilities waiting to be unlocked.
+
+Just as a mage's success depends on their mastery of magical techniques, getting the best results from LLMs requires understanding how to properly "decompress" their knowledge. Through careful prompt engineering – our modern-day spellcraft – we can channel this compressed potential into precise, meaningful responses.
+
+In this age of AI, the art of "summoning" – knowing how to craft the right prompts and interact with LLMs – has become as crucial as traditional programming skills. This post explores this mystical art, teaching you the techniques to effectively commune with these digital oracles.
 
 In the age of Large Language Models (LLMs), the ability to effectively communicate with AI has become as crucial as traditional programming skills. This post explores the art of "summoning" – how to craft prompts and interact with LLMs to achieve optimal results.
 
