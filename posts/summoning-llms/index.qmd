@@ -6,6 +6,8 @@ date: "2025-02-07"
 categories: [ai, technology, communication]
 ---
 
+![](summon.jpeg)
+
 In the age of Large Language Models (LLMs), the ability to effectively communicate with AI has become as crucial as traditional programming skills. This post explores the art of "summoning" – how to craft prompts and interact with LLMs to achieve optimal results.
 
 ## Understanding the Nature of LLMs
