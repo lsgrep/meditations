@@ -8,6 +8,7 @@ categories: [ai, technology, communication]
 
 ![](summon.jpeg)
 
+
 Large Language Models (LLMs), like the human brain, are compression systems. Both compress vast amounts of information into dense neural patterns. Accessing this intelligence - whether artificial or biological - requires the right decompression technique. For humans, it's asking good questions. For LLMs, it's writing good prompts.
 
 Technology has a pattern of making scarce resources abundant:
