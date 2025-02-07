@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.56">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -38,10 +38,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -171,9 +171,11 @@ gtag('config', 'G-ZNHE3LPDLF', { 'anonymize_ip': true});
 
 
 
-<p><img src="summon.jpeg" class="img-fluid"> Imagine a mage, standing before a mystical sphere of infinite knowledge. To draw forth wisdom, they must master precise incantations and rituals. This is exactly what interacting with Large Language Models (LLMs) feels like. These AI models are like compressed spheres of knowledge – vast repositories of information and capabilities waiting to be unlocked.</p>
-<p>Just as a mage’s success depends on their mastery of magical techniques, getting the best results from LLMs requires understanding how to properly “decompress” their knowledge. Through careful prompt engineering – our modern-day spellcraft – we can channel this compressed potential into precise, meaningful responses.</p>
-<p>In this age of AI, the art of “summoning” – knowing how to craft the right prompts and interact with LLMs – has become as crucial as traditional programming skills. This post explores this mystical art, teaching you the techniques to effectively commune with these digital oracles.</p>
+<p><img src="summon.jpeg" class="img-fluid"></p>
+<p>Large Language Models (LLMs), like the human brain, are compression systems. Both compress vast amounts of information into dense neural patterns. Accessing this intelligence - whether artificial or biological - requires the right decompression technique. For humans, it’s asking good questions. For LLMs, it’s writing good prompts.</p>
+<p>Technology has a pattern of making scarce resources abundant:</p>
+<p>cars commoditized distance phones commoditized communication computers commoditized computation LLMs are commoditizing intelligence social networks commoditized connection cloud platforms commoditized infrastructure blockchains are commoditizing trust AI agents will commoditize automation</p>
+<p>Like these technologies, LLMs are making AI capabilities accessible to everyone. Learning to write effective prompts is becoming as important as learning to code. This post covers the key techniques for getting the most out of LLMs.</p>
 <section id="understanding-the-nature-of-llms" class="level2">
 <h2 class="anchored" data-anchor-id="understanding-the-nature-of-llms">Understanding the Nature of LLMs</h2>
 <p>Before diving into prompt engineering, it’s essential to understand what we’re working with. LLMs are not: - Traditional search engines - Rule-based chatbots - Omniscient oracles</p>
@@ -338,8 +340,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -450,7 +450,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
