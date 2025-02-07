@@ -13,14 +13,14 @@ Large Language Models (LLMs), like the human brain, are compression systems. Bot
 
 Technology has a pattern of making scarce resources abundant:
 
-cars commoditized distance
-phones commoditized communication
-computers commoditized computation
-LLMs are commoditizing intelligence
-social networks commoditized connection
-cloud platforms commoditized infrastructure
-blockchains are commoditizing trust
-AI agents will commoditize automation
+- cars commoditized distance
+- phones commoditized communication
+- computers commoditized computation
+- social networks commoditized connection
+- cloud platforms commoditized infrastructure
+- blockchains are commoditizing trust
+- LLMs are commoditizing intelligence
+- AI agents will commoditize automation
 
 Like these technologies, LLMs are making AI capabilities accessible to everyone. Learning to write effective prompts is becoming as important as learning to code. This post covers the key techniques for getting the most out of LLMs.
 
