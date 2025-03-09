@@ -1,7 +1,7 @@
 ---
 title: "The Future of Web Browsing: Why UIs Matter in the Age of LLM Agents"
 date: 2025-03-10
-author: "Your Name"
+author: "Yusup"
 categories: ["AI", "Web Technology", "LLM", "Browser Extensions"]
 tags: ["LLM", "agents", "web interface", "browsing experience", "overlay"]
 ---
