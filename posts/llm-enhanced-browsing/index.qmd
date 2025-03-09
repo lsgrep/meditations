@@ -65,5 +65,3 @@ The future isn't UI-less – it's UI-plus. It's about creating browsing experien
 The web UI isn't going away. It's evolving, becoming more intelligent, and working harder for us. And that's a future I'm excited to help build.
 
 ---
-
-*What are your thoughts on the future of web browsing in the age of LLMs? Share your perspective in the comments below!*
