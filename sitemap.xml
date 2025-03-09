@@ -1,51 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lsgrep.github.io/meditations/posts/from-the-instant-to-eternity/index.html</loc>
-    <lastmod>2025-02-07T08:14:32.003Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lsgrep.github.io/meditations/posts/setup-a-new-machine/index.html</loc>
-    <lastmod>2025-02-07T08:14:32.018Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lsgrep.github.io/meditations/posts/toyota-cars-and-Makefiles/index.html</loc>
-    <lastmod>2025-02-07T08:14:32.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lsgrep.github.io/meditations/posts/on-taking-notes/index.html</loc>
-    <lastmod>2025-02-07T08:14:32.013Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lsgrep.github.io/meditations/posts/show-limited-respect/index.html</loc>
-    <lastmod>2025-02-07T08:14:32.018Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lsgrep.github.io/meditations/index.html</loc>
-    <lastmod>2025-02-07T08:14:32.003Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lsgrep.github.io/meditations/about.html</loc>
-    <lastmod>2025-02-07T08:14:31.981Z</lastmod>
-  </url>
-  <url>
     <loc>https://lsgrep.github.io/meditations/posts/setting-up-media-server-with-jellyfin/index.html</loc>
-    <lastmod>2025-02-07T08:14:32.017Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lsgrep.github.io/meditations/posts/speed-reading-experiment/index.html</loc>
-    <lastmod>2025-02-07T08:14:32.018Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lsgrep.github.io/meditations/posts/summoning-llms/index.html</loc>
-    <lastmod>2025-02-07T08:14:32.018Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lsgrep.github.io/meditations/posts/metaconsciousness/index.html</loc>
-    <lastmod>2025-02-07T08:14:32.013Z</lastmod>
+    <lastmod>2025-03-09T16:49:02.952Z</lastmod>
   </url>
   <url>
     <loc>https://lsgrep.github.io/meditations/posts/garbage-in-garbage-out/index.html</loc>
-    <lastmod>2025-02-07T08:14:32.012Z</lastmod>
+    <lastmod>2025-03-09T16:49:02.948Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsgrep.github.io/meditations/posts/summoning-llms/index.html</loc>
+    <lastmod>2025-03-09T16:49:02.953Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsgrep.github.io/meditations/posts/on-taking-notes/index.html</loc>
+    <lastmod>2025-03-09T16:49:02.948Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsgrep.github.io/meditations/posts/speed-reading-experiment/index.html</loc>
+    <lastmod>2025-03-09T16:49:02.953Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsgrep.github.io/meditations/about.html</loc>
+    <lastmod>2025-03-09T16:49:02.916Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsgrep.github.io/meditations/index.html</loc>
+    <lastmod>2025-03-09T16:49:02.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsgrep.github.io/meditations/llm-enhanced-browsing.html</loc>
+    <lastmod>2025-03-09T16:49:02.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsgrep.github.io/meditations/posts/setup-a-new-machine/index.html</loc>
+    <lastmod>2025-03-09T16:49:02.953Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsgrep.github.io/meditations/posts/toyota-cars-and-Makefiles/index.html</loc>
+    <lastmod>2025-03-09T16:49:02.956Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsgrep.github.io/meditations/posts/show-limited-respect/index.html</loc>
+    <lastmod>2025-03-09T16:49:02.953Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsgrep.github.io/meditations/posts/from-the-instant-to-eternity/index.html</loc>
+    <lastmod>2025-03-09T16:49:02.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsgrep.github.io/meditations/posts/metaconsciousness/index.html</loc>
+    <lastmod>2025-03-09T16:49:02.948Z</lastmod>
   </url>
 </urlset>
