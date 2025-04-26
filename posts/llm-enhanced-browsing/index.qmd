@@ -24,7 +24,7 @@ The web UI isn't just a means to an end; it's a key piece of our information pro
 
 ## Enhanced Browsing: The Best of Both Worlds
 
-Rather than replacing UIs, I see a future where LLMs enhance our browsing experience by making web interactions more intuitive, personalized, and efficient. This is why I've been working on [Overlay](https://github.com/lsgrep/overlay) – a browser extension designed to bring LLM capabilities directly into your everyday browsing.
+Rather than replacing UIs, I see a future where LLMs enhance our browsing experience by making web interactions more intuitive, personalized, and efficient. This is why I've been working on [Overlay](https://overlay.one) – a browser extension designed to bring LLM capabilities directly into your everyday browsing.
 
 Overlay isn't about replacing web pages; it's about augmenting them with contextual intelligence. It's the difference between eliminating the interface and making it smarter.
 
