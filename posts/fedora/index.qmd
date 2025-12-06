@@ -1,0 +1,42 @@
+---
+title: "Fedora"
+author: "Yusup"
+date: "2025-12-06"
+categories: [linux, fedora]
+toc: true
+---
+
+
+I bought [Rog G16](https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g16-2025-gu605/) a while ago,
+
+It is a decent laptop and fairly expensive as well, but I hated Windows on it.
+I need to buy a license in order to customize it (change the UI language). That is stupid.
+
+
+So I installed Ubuntu, but almost everything worked except the speakers. I tinkered a bit but it is quite hard to fix.
+I saw someone mentioned that on Fedora everything works, but changing the OS the a new distro is a huge deal.
+I could use a headset but that is a bit annoying.
+
+
+This week I happen to watch an video of [Linus Torvalds and Linus](https://www.youtube.com/watch?v=mfv0V1SxbNA), in which the King mentioned that he uses Fedora.
+
+That settled it for me. I installed Fedora + Plasma and Speakers did work, but the Nvidia driver did not.
+Then I tried Fedora with Gnome, and everything worked, and it looks amazing and polished.
+
+![Fedora with Gnome desktop](fedora-desktop.png)
+
+And after using Claude Code on my laptop, I realized that this is something else right now.
+
+Claude can help me customize my .zshrc, my Ghostty configs, optimize my system for better performance, can analyze `dmesg` and find out issues.
+
+I encountered an error with regard to Intellij, then Claude fixed it one shot.
+
+![IntelliJ lock file issue](intellij-lock-issue.png)
+
+Yeah, there are security, privacy issues. But it feels something else.
+
+
+
+
+
+

@@ -1,3 +1,5 @@
 /.quarto/
 .idea
 .aider*
+
+**/*.quarto_ipynb
